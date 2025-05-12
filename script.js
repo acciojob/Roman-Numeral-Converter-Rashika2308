@@ -21,8 +21,3 @@ function toRoman(num) {
 
   return result;
 }
-
-// Example usage:
-console.log(toRoman(14));    // Output: XIV
-console.log(toRoman(798));   // Output: DCCXCVIII
-
